@@ -14,8 +14,8 @@ You will need two 1k ohms resiters , one 5v DC motor (not a servo motor) , nine 
 
 
 ##Demo
-You can see the project woring here 
-<will upload a video soon> 
+You can see the project working here 
+*will upload a video soon 
 
 
 
