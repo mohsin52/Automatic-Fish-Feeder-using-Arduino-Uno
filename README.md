@@ -12,15 +12,12 @@ This Project meets the goal of making a cheap fish feeder for my aquarium when I
 
 You will need two 1k ohms resiters , one 5v DC motor (not a servo motor) , nine male-male jumper cables , one power cord for arduino , an Arduino Uno , A n-channeled MOSFET (any will do, as long as it works as voltage regulator) and a single LED to act as indicator.
 
-```
-Demo
+
+##Demo
 You can see the project woring here 
 <will upload a video soon> 
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
