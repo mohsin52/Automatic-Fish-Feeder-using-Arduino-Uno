@@ -25,7 +25,6 @@ UPDATE--> Youtube video link ... [Youtube Video](https://www.youtube.com/watch?v
 2. Completed project Images
 ![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/3.jpg)
 ![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/4.jpg)
-![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/5.jpg)
 
 
 ## Built With
