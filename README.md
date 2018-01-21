@@ -15,11 +15,17 @@ You will need two 1k ohms resiters , one 5v DC motor (not a servo motor) , nine 
 
 ###Images
 You can see the project working here 
-*will upload a video soon 
-1. Basic setup
-![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/1.jpg)
-![Completed project Image 2](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/2.jpg)
 
+UPDATE--> Youtube video link ... [Youtube Video](https://www.youtube.com/watch?v=a_CZp1LqsZs)
+
+1. Basic setup
+![Basic project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/1.jpg)
+![Basic project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/2.jpg)
+
+2. Completed project Images
+![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/3.jpg)
+![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/4.jpg)
+![Completed project Image](https://raw.githubusercontent.com/mohsin52/Automatic-Fish-Feeder-using-Arduino-Uno/master/Images/5.jpg)
 
 
 ## Built With
